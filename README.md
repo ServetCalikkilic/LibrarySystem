@@ -1,2 +1,2 @@
 # LibrarySystem
-I wrote a console-based Java Library System with role management, book borrowing/returning, and stock handling.
+A comprehensive digital media library management system. The system is capable of managing different types of media items (books, movies, music albums) and members, as well as tracking borrowing and return operations.
